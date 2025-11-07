@@ -1,6 +1,6 @@
-# Socieoeconomic Trends in the United States: A Census Data Study
+# Socioeconomic Trends in the United States: A Census Data Study
 
-This project uses Data Mining Techniques to decode US demographics from the PUMS Dataset (Public Use Microdata Sample). The goal is to identify correlations between socieconomic factors like age, education, occupation and geographic location. The analysis provides insights into income inequality, reginal dofferences as well as potential relationships between demographic trends and voting behaviour.
+This project uses Data Mining Techniques to decode US demographics from the PUMS Dataset (Public Use Microdata Sample). The goal is to identify correlations between socioeconomic factors like age, education, occupation and geographic location. The analysis provides insights into income inequality, reginal dofferences as well as potential relationships between demographic trends and voting behaviour.
 
 ---
 ## Folder Structure 📂
